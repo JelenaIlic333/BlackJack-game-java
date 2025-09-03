@@ -1,10 +1,10 @@
 <img width="583" height="589" alt="BlackJack" src="https://github.com/user-attachments/assets/05c28b17-d349-4aee-bf71-26c5d49a1ddc" /> 
 
-BlackJack Java Game
+## BlackJack Java Game
 
 A simple BlackJack game implemented in Java using Swing.
 
-Features
+## Features
 
 Classic BlackJack rules: Hit, Stay, and Restart
 
@@ -16,13 +16,13 @@ Graphical card display with images
 
 Game result displayed on the screen
 
-How to Run
+## How to Run
 
 Download blackjack.jar from the Releases section.
 
 Make sure Java 8 or newer is installed on your computer.
 
-Controls:
+## Controls:
 
 Hit: Draw a card
 
@@ -30,7 +30,7 @@ Stay: End your turn and let dealer play
 
 Restart: Start a new game
 
-Notes
+## Notes
 
 All card images are included in the JAR file.
 
