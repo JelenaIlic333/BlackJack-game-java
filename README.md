@@ -1,3 +1,5 @@
+<img width="583" height="589" alt="BlackJack" src="https://github.com/user-attachments/assets/05c28b17-d349-4aee-bf71-26c5d49a1ddc" /> 
+
 BlackJack Java Game
 
 A simple BlackJack game implemented in Java using Swing.
