@@ -39,5 +39,6 @@ Player and dealer cards are displayed on the game window.
 Results ("You Win!", "You Lose!", "Tie!") appear after each round.
 
 Open a terminal and run:
+```bash
 
 java -jar blackjack.jar
